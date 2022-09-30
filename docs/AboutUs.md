@@ -26,7 +26,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 ([github](http://github.com/kxrt))
 ([portfolio](team/kxrt.md))
 
-* Role: Developer 
+* Role: Developer
 
 ### Johnny Doe
 
